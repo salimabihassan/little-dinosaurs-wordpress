@@ -41,7 +41,3 @@ Presentar la experiencia real como «Actualización web en WordPress / Elementor
 ## Verificación de esta entrega
 
 Sintaxis de JavaScript y estructura estática de traducciones/enlaces comprobadas. La ejecución de Chromium estuvo bloqueada por el entorno; no se afirma una prueba visual ni funcional completa en navegador. Antes de desplegar, comprobar ES/EN, navegación móvil, ausencia de desbordamiento y presentación en dispositivos reales.
-
-## Referencia pública
-
-[Sitio publicado de Little Dinosaurs Place](https://littledinosaurs.cl/). Es el sitio en producción, separado de la demo recreada en este repositorio.
